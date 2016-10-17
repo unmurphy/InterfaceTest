@@ -1,0 +1,66 @@
+(2016-09-27 16:37:22) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=320982198908063015&mobile=15962199447&key=124910c388da62db905adf48b21983f0&realname=%E6%9D%A8%E5%BF%97%E7%A5%A5
+reponse= {"reason":"成功1","result":{"idcard":"320982198908063015","realname":"杨志祥","mobile":"15962199447","province":"江苏省","city":"苏州市","isp":"移动","state":"0","description":"正常使用"},"error_code":0}
+
+
+(2016-09-27 16:37:24) Info      >>>: url: http://v.juhe.cn/mobile_status/query
+postData: {idcard=320982198908063015, mobile=15998451839, key=124910c388da62db905adf48b21983f0, realname=杀马特}
+reponse= {"reason":"成功","result":{"realname":"杀马特","idcard":"320982198908063015","mobile":"15998451839","province":"辽宁省","city":"大连市","isp":"移动","state":"0","description":"正常使用"},"error_code":0}
+
+
+(2016-09-27 16:37:24) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702197108242276&mobile=13962625785&key=124910c388da62db905adf48b21983f1&realname=%E9%A9%AC%E9%BB%8E%E6%98%95
+reponse= {"resultcode":"101","reason":"错误的请求KEY!!","result":null,"error_code":10001}
+
+
+(2016-09-27 16:37:25) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702197001181&mobile=16852369741&key=124910c388da62db905adf48b21983f0&realname=%E6%9D%A8%E6%B3%BD%E6%B4%8B
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:25) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=5117021970011811&mobile=16852369741&key=124910c388da62db905adf48b21983f0&realname=xyz
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:26) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702197001181397&mobile=16852369741&key=124910c388da62db905adf48b21983f0&realname=%E6%9D%A8%E6%B3%BD%E6%B4%8B
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:27) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702198708178437&mobile=180563214568&key=124910c388da62db905adf48b21983f0&realname=%E5%85%83%E6%98%8E%E7%9D%BF
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:27) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702197008221275&mobile=1366262754&key=124910c388da62db905adf48b21983f0&realname=%E6%B2%88%E6%B3%BD
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:27) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=45102519820815311X&mobile=15962196992&key=124910c388da62db905adf48b21983f0&realname=%E8%8A%B1%E5%93%B2%E7%80%9A
+reponse= {"reason":"成功1","result":{"idcard":"45102519820815311X","realname":"花哲瀚","mobile":"15962196992","province":"江苏省","city":"苏州市","isp":"移动","state":"0","description":"正常使用"},"error_code":0}
+
+
+(2016-09-27 16:37:28) Info      >>>: url: http://v.juhe.cn/mobile_status/query
+postData: {idcard=, mobile=15962196993, key=124910c388da62db905adf48b21983f0, realname=}
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:29) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702197008221275&mobile=15962196994&key=124910c388da62db905adf48b21983f0&realname=
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:29) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=&mobile=15962196995&key=124910c388da62db905adf48b21983f0&realname=%E6%B2%88%E6%B3%BD
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:29) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702198708178436&mobile=15962196996&key=&realname=%E5%85%83%E6%98%8E%E7%9D%BF
+reponse= {"resultcode":"101","reason":"错误的请求KEY!","result":null,"error_code":10001}
+
+
+(2016-09-27 16:37:30) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702197108242276&mobile=15962196997&key=124910c388da62db905adf48b21983f0&realname=realname
+reponse= {"reason":"成功1","result":{"idcard":"511702197108242276","realname":"realname","mobile":"15962196997","province":"江苏省","city":"苏州市","isp":"移动","state":"0","description":"正常使用"},"error_code":0}
+
+
+(2016-09-27 16:37:30) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=idcard&mobile=15962196998&key=124910c388da62db905adf48b21983f0&realname=%E5%AE%89%E4%BF%8A%E6%9C%97
+reponse= {"reason":"参数错误","result":null,"error_code":224902}
+
+
+(2016-09-27 16:37:30) Info      >>>: uri= http://v.juhe.cn/mobile_status/query?idcard=511702197108242276&mobile=15962196999&key=key&realname=%E5%AE%89%E4%BF%8A%E6%9C%97
+reponse= {"resultcode":"101","reason":"错误的请求KEY!","result":null,"error_code":10001}
+
+

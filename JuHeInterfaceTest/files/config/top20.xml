@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ThinkLandInterfaceTest">
+	<test name="TOP20接口测试" preserve-order="true">
+		<parameter name="excelName" value="Top20" />
+		<classes>
+			<class name="com.thinkland.test.MainTest">
+				<methods>
+					<include name="commonInterface" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite> 

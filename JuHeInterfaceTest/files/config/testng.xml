@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ThinkLandInterfaceTest">
+	<test name="通用礼品卡接口测试" preserve-order="true">
+	<parameter name = "excelName" value = "GeneralGiftCardTest"/>
+		<classes>
+			<class name="com.thinkland.test.MainTest">
+			</class>
+		</classes>
+	</test>
+	<test name="生活常用接口测试" preserve-order="true">
+	<parameter name = "excelName" value = "LifeCommonTest"/>
+		<classes>
+			<class name="com.thinkland.test.MainTest">
+			</class>
+		</classes>
+	</test>
+</suite> 
