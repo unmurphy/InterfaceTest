@@ -1,0 +1,1 @@
+接口自动化测试工具，利用testng+定制后的reportng，部署到jenkins上之后测试人员只需要上传EXECEL 即可，Excel模板参开例子适当修改即可
